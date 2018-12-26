@@ -17,7 +17,7 @@ class CreateConfigurationsTable extends Migration
             $table->increments('id');
             $table->string('scope');
             $table->string('key');
-            $table->string('value');
+            $table->string('value')->nullable();
         });
     }
 
