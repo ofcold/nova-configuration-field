@@ -54,7 +54,7 @@ class Repository
     }
 
     /**
-     * Get a configuration.
+     * Get a configuration value.
      *
      * @param $key
      *
