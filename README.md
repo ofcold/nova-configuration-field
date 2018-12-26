@@ -10,7 +10,7 @@ Laravel Nova.
 First install the Nova package via composer:
 
 ```bash
-composer require ofcold/ofcold/nova-configurations-field
+composer require ofcold/nova-configurations-field
 ```
 
 Publish the config file:
