@@ -1,5 +1,5 @@
 {
-    "name": "ofcold/configurations",
+    "name": "ofcold/nova-configurations-field",
     "description": "A Laravel Nova field.",
     "keywords": [
         "laravel",
